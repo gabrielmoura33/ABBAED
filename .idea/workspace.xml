@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09bcd527-510b-4cff-9619-520c950d967f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1c6C1IPQ23nDndmhOE5snnIHUgf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Aplicacao" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Aplicacao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TurmaBasica">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Aplicacao.Main" />
+      <module name="ArvoresBinarias" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurmaBasica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aplicacao.TurmaBasica" />
+      <module name="ArvoresBinarias" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aplicacao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TurmaBasica" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TurmaBasica" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09bcd527-510b-4cff-9619-520c950d967f" name="Default Changelist" comment="" />
+      <created>1589839439670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589839439670</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="173" key="GridCell.Tab.0.bottom" timestamp="1589844138483">
+      <screen x="0" y="23" width="1280" height="705" />
+    </state>
+    <state width="1238" height="173" key="GridCell.Tab.0.bottom/0.23.1280.705@0.23.1280.705" timestamp="1589844138483" />
+    <state width="1238" height="173" key="GridCell.Tab.0.center" timestamp="1589844138482">
+      <screen x="0" y="23" width="1280" height="705" />
+    </state>
+    <state width="1238" height="173" key="GridCell.Tab.0.center/0.23.1280.705@0.23.1280.705" timestamp="1589844138482" />
+    <state width="1238" height="173" key="GridCell.Tab.0.left" timestamp="1589844138482">
+      <screen x="0" y="23" width="1280" height="705" />
+    </state>
+    <state width="1238" height="173" key="GridCell.Tab.0.left/0.23.1280.705@0.23.1280.705" timestamp="1589844138482" />
+    <state width="1238" height="173" key="GridCell.Tab.0.right" timestamp="1589844138482">
+      <screen x="0" y="23" width="1280" height="705" />
+    </state>
+    <state width="1238" height="173" key="GridCell.Tab.0.right/0.23.1280.705@0.23.1280.705" timestamp="1589844138482" />
+  </component>
+</project>
